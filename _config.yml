@@ -24,8 +24,8 @@ copyright_name: Danni Setiawan
 rss : false
 
 # used for portfolio on home page
-collections:
-  - portfolio
+#collections:
+#  - portfolio
 
 # used to estimate reading time
 wpm: 150
