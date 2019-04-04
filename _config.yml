@@ -1,7 +1,7 @@
 # Site settings
 title: Welcome Aboard
 default_author: Danni Setiawan
-description: "Just another blog"  # used in site head
+description: "bridging ideas"  # used in site head
 
 # register on google analytics and replace this token
 google_analytics: 
